@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obuzietter&label=Profile%20views&color=0e75b6&style=flat" alt="obuzietter" /> </p>
 
-- 🔭 I’m currently working on **a Android Development(Kotlin - Android Studio))**
+- 🔭 I’m currently working on **SCHOOL WEBSITE USING LARAVEL FRAMEWORK**
 
 - 🌱 I’m currently learning **LARAVEL, ANDROID**
 
